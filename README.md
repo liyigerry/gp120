@@ -2,7 +2,7 @@
 
 ## sensitivity
 
-![conformational dynamics](./sensitivity/figs/fig_4.tif)
+![conformational dynamics](./sensitivity/figs/fig_4.jpg)
 
 ### title
 Insights into the molecular mechanism underlying CD4-dependency and neutralization sensitivity of HIV-1: a comparative molecular dynamics study on gp120s from isolates with different phenotypes
