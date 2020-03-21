@@ -1,6 +1,6 @@
 # Molecular dynamics simulations of HIV glycoprotein gp120
 
-### There are some research on the molecular dynamics of HIV glycoprotein gp120 from 2018 to 2022.
+### There are some research on the molecular dynamics of HIV glycoprotein gp120.
 
 | No. | Year | Journal | IF | Res | DOI |
 | :---: | :---: | :---:| :---: | :---: | :--- |
